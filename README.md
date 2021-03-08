@@ -42,6 +42,12 @@
 </header>
 </article>
 
+<article>
+<header>
+<li>Formatação com  DateFormat e SimpleDateFormat </li>
+</header>
+</article>
+
 
 <article>
 <header>
