@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//Mostrando a habilidade
 public class Strings {
     public String n;
     public static void main(String[]args) {
