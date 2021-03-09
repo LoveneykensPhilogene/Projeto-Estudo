@@ -10,8 +10,8 @@ dateJava8/Exemplo003.java
  dateJava8.Exemplo003
 condicao/repetido/Stream.java
  condicao.repetido.Stream
-condicao/repetido/IF.java
- condicao.repetido.IF
+dateJava8/ExercicioFinal.java
+ dateJava8.ExercicioFinal
 javaDateFormat/Exemplo002.java
  javaDateFormat.Exemplo002
 POO/completaCarro.java
@@ -22,8 +22,8 @@ javaDateFormat/ExercicioFinal.java
  javaDateFormat.ExercicioFinal
 javaDate/Exemplo005.java
  javaDate.Exemplo005
-Estudo/Strings.java
- Estudo.Strings
+implementacao/Strings.java
+ implementacao.Strings
 POO/Carro.java
  POO.Carro
 dateJava8/Exemplo002.java
@@ -46,9 +46,13 @@ POO/Pessoa.java
  POO.Pessoa
 javaDate/Exemplo003.java
  javaDate.Exemplo003
+condicao/repetido/IF.java
+ condicao.repetido.IF
 dateJava8/exemplo001.java
  dateJava8.exemplo001
 javaCalendar/ExercicioFinal.java
  javaCalendar.ExercicioFinal
-dateJava8/ExercicioFinal.java
- dateJava8.ExercicioFinal
+javaMap/ExemploHashMap001.java
+ javaMap.ExemploHashMap001
+javaMap/ExemploTreeMap001.java
+ javaMap.ExemploTreeMap001
