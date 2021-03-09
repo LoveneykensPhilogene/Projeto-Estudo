@@ -1,9 +1,7 @@
-package Estudo;
+package implementacao;
 
-import javax.sound.midi.Soundbank;
 import javax.swing.*;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
