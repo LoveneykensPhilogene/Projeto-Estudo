@@ -2,6 +2,8 @@ javaDateFormat/Exemplo001.java
  javaDateFormat.Exemplo001
 javaDate/Exemplo002.java
  javaDate.Exemplo002
+javaMap/ExemploTreeMap001.java
+ javaMap.ExemploTreeMap001
 POO/ConsultaImposto.java
  POO.ConsultaImposto
 POO/Supervisor.java
@@ -20,6 +22,8 @@ dateJava8/Exemplo004.java
  dateJava8.Exemplo004
 javaDateFormat/ExercicioFinal.java
  javaDateFormat.ExercicioFinal
+javaMap/ExcercicioHashMapFinal.java
+ javaMap.ExcercicioHashMapFinal
 javaDate/Exemplo005.java
  javaDate.Exemplo005
 implementacao/Strings.java
@@ -46,13 +50,11 @@ POO/Pessoa.java
  POO.Pessoa
 javaDate/Exemplo003.java
  javaDate.Exemplo003
-condicao/repetido/IF.java
- condicao.repetido.IF
+javaMap/ExemploHashMap001.java
+ javaMap.ExemploHashMap001
 dateJava8/exemplo001.java
  dateJava8.exemplo001
 javaCalendar/ExercicioFinal.java
  javaCalendar.ExercicioFinal
-javaMap/ExemploHashMap001.java
- javaMap.ExemploHashMap001
-javaMap/ExemploTreeMap001.java
- javaMap.ExemploTreeMap001
+condicao/repetido/IF.java
+ condicao.repetido.IF
