@@ -60,3 +60,9 @@ javaMap/ExcercicioHashMapFinal.java
  javaMap.ExcercicioHashMapFinal
 javaMap/ExercicioTreeMapFinal.java
  javaMap.ExercicioTreeMapFinal
+comparator/EstudanteComparator.java
+ comparator.EstudanteComparator
+comparable/EstudanteComparable.java
+ comparable.EstudanteComparable
+comparator/ExemploComparatorList.java
+ comparator.ExemploComparatorList
