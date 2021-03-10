@@ -41,7 +41,7 @@ public class ExcercicioHashMapFinal {
         //adiciona o distrito federal
         estadosBrasil.put("DF","Distrito Federal");
         System.out.println(estadosBrasil);
-        //verifica o tamanho da mapa
+        //verifica o tamanho do mapa
         int tamanho=estadosBrasil.size();
         System.out.println("O tamanho do mapa é : "+tamanho);
         //remove o estado mato grosso do sul
@@ -54,7 +54,7 @@ public class ExcercicioHashMapFinal {
             String value=estadosAtuais.getValue();
             System.out.println(value+"("+key+")");
         }
-        //verifica se estado maranhão está na mapa
+        //verifica se estado maranhão está no mapa
         boolean maranhao=estadosBrasil.containsValue("Maranhão");
         System.out.println("Estado Maranhão está na lista? : "+maranhao);
 
