@@ -12,10 +12,6 @@ public class ExemploComparatorList {
         estudante.add(new EstudanteComparable("Pierre",20));
         estudante.add(new EstudanteComparable("Jose",27));
         estudante.add(new EstudanteComparable("Maria",29));
-        EstudanteComparable p=new EstudanteComparable("ggjy",20);
-        p.getIdade();
-        System.out.println(p.getNome());
-
         //Retorna ordem inserida
         System.out.println(estudante);
          //ordem natural dos numeros- idade
@@ -38,16 +34,7 @@ public class ExemploComparatorList {
         System.out.println(estudante);
         // ordem natural dos numeros - idade(interface comparator
         Collections.sort(estudante, new EstudanteComparator());
-        TreeMap<String,Integer>k=new TreeMap<>();
-        k.put(p.getNome(), p.getIdade());
-        System.out.println(k);
-        EstudanteComparable es=new EstudanteComparable("love",35);
-        k=es.map(es.getNome(), es.getIdade());
-        System.out.println(k);
-        Set<EstudanteComparable> set=new HashSet<>();
-        set.add(es);
-                System.out.println(set);
-
+        System.out.println(estudante);
 
 
 
