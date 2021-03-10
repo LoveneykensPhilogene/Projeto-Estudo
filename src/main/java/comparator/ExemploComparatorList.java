@@ -36,10 +36,5 @@ public class ExemploComparatorList {
         Collections.sort(estudante, new EstudanteComparator());
         System.out.println(estudante);
 
-
-
-
-
-
     }
 }
