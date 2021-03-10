@@ -66,3 +66,9 @@ comparable/EstudanteComparable.java
  comparable.EstudanteComparable
 comparator/ExemploComparatorList.java
  comparator.ExemploComparatorList
+comparable/BancoCompartaor.java
+ comparable.BancoCompartaor
+comparable/Banco.java
+ comparable.Banco
+comparable/CadastrarBancos.java
+ comparable.CadastrarBancos

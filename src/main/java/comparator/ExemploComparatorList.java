@@ -23,7 +23,7 @@ public class ExemploComparatorList {
         //ordem natural dos numeros - idade(intrface comparator
         estudante.sort(Comparator.comparingInt(EstudanteComparable::getIdade));
         System.out.println(estudante);
-        //2º) ordem reversa dos numeros - idade(interface comparatot
+        //2º) ordem reversa dos numeros - idade(interface comparator)
         estudante.sort(Comparator.comparingInt(EstudanteComparable::getIdade).reversed());
         System.out.println(estudante);
         // ordem natural dos numeros - idade
