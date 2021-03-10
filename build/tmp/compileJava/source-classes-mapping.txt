@@ -22,8 +22,8 @@ dateJava8/Exemplo004.java
  dateJava8.Exemplo004
 javaDateFormat/ExercicioFinal.java
  javaDateFormat.ExercicioFinal
-javaMap/ExcercicioHashMapFinal.java
- javaMap.ExcercicioHashMapFinal
+condicao/repetido/IF.java
+ condicao.repetido.IF
 javaDate/Exemplo005.java
  javaDate.Exemplo005
 implementacao/Strings.java
@@ -56,5 +56,7 @@ dateJava8/exemplo001.java
  dateJava8.exemplo001
 javaCalendar/ExercicioFinal.java
  javaCalendar.ExercicioFinal
-condicao/repetido/IF.java
- condicao.repetido.IF
+javaMap/ExcercicioHashMapFinal.java
+ javaMap.ExcercicioHashMapFinal
+javaMap/ExercicioTreeMapFinal.java
+ javaMap.ExercicioTreeMapFinal
