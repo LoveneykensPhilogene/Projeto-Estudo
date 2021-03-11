@@ -72,3 +72,9 @@ comparable/Banco.java
  comparable.Banco
 comparable/CadastrarBancos.java
  comparable.CadastrarBancos
+javaOptional/ExeemploOptional.java
+ javaOptional.ExeemploOptional
+javaOptional/ExemploOptionalPrimitivos.java
+ javaOptional.ExemploOptionalPrimitivos
+javaOptional/ExemploOptionalEstados.java
+ javaOptional.ExemploOptionalEstados
