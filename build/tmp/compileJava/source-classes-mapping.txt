@@ -78,3 +78,5 @@ javaOptional/ExemploOptionalPrimitivos.java
  javaOptional.ExemploOptionalPrimitivos
 javaOptional/ExemploOptionalEstados.java
  javaOptional.ExemploOptionalEstados
+TreamAPI/ExemploStreamAPI.java
+ TreamAPI.ExemploStreamAPI
