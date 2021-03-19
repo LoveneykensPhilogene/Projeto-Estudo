@@ -1,10 +1,8 @@
 package condicao.repetido;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class Stream {
+public class Stream<S> {
 
     public static void main(String[] args) {
         IntStream.of(1, 2, 3, 4, 5).forEach(n -> {
@@ -25,9 +23,8 @@ public class Stream {
         d[0][1] = 2;
         System.out.println("Tamanho do d :" + d.length);
         System.out.println(a[0].equals(1));
-        Stream m = new Stream();
+
+
     }
-
-
 }
 

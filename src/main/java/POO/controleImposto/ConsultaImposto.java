@@ -1,6 +1,4 @@
-package POO;
-
-import java.awt.*;
+package POO.controleImposto;
 
 public class ConsultaImposto{
     public static void main(String[]args) {

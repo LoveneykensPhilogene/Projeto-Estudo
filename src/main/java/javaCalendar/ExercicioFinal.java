@@ -9,14 +9,16 @@ import java.util.Date;
          int qtdDias;
          //instancia
        Calendar calendar=Calendar.getInstance();
-        System.out.println("====="+" Dia do vencimento "+"=====\n"+calendar.getTime());
+        System.out.println("====="+" Inicio do dia "+"=====\n"+calendar.getTime());
         //adiciona 10 dias após da data de vencimento
        calendar.add(Calendar.DATE,10);
+       System.out.println("\n====="+" Dia do vencimento "+"=====\n"+calendar.getTime());
        //retorna o valor do campo
         int valorDia=calendar.get(calendar.SATURDAY);
         //aumenta dois dias a mais se valorDia é igual a 7
          if(valorDia==7){
-             calendar.roll(calendar.DATE, 2);System.out.println("====="+" Dia úteis "+"===== \n"+calendar.getTime());
+             calendar.roll(calendar.DATE, 2);
+             System.out.println("====="+" Dia úteis "+"===== \n"+calendar.getTime());
              qtdDias =10+2;
              System.out.println("Quantidade de dias restantes para pagar a fatura : "+qtdDias+" Dias");
 

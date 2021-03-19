@@ -10,7 +10,7 @@ public class ExemploOptionalEstados {
         optionalString.ifPresentOrElse(System.out::println,
                 ()->System.out.println("Valor não esta presente"));
         //optional.ofNullabl
-        Optional<String> optionalNull=Optional.ofNullable(null);
+        Optional<String> optionalNull=Optional.ofNullable(" l");
         System.out.println("Valor optional que não está presente");
         optionalNull.ifPresentOrElse(System.out::println,
                 ()->System.out.println("null= não esta presente"));

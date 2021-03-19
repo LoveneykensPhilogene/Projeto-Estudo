@@ -1,6 +1,6 @@
 package comparable;
 
-import java.util.PrimitiveIterator;
+
 import java.util.TreeMap;
 import java.util.TreeSet;
 
@@ -31,6 +31,7 @@ public class Banco implements Comparable<Banco> {
 
     @Override
     public int compareTo(Banco o) {
+
         return this.agencia-o.getAgencia();
     }
 
@@ -47,4 +48,6 @@ public class Banco implements Comparable<Banco> {
         return "Nome : "+nome+"\n"
                 +"Agencia : "+ agencia+"\n";
     }
+
+
 }

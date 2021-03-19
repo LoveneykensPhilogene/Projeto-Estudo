@@ -1,4 +1,4 @@
-package POO;
+package POO.controleImposto;
 
 public class Funcionario {
     public String nome;
